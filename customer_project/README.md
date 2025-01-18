@@ -1,4 +1,4 @@
 # customer_project
-get the data in csv fprmat
-analyze and show bar chart
-also generate result csv file
+get the data in csv format,
+analyze and show bar chart,
+also generate resultent csv file.
